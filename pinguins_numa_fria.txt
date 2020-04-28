@@ -1,0 +1,37 @@
+//http://rachacuca.com.br/jogos/pinguins-numa-fria
+
+//Algoritmo Pinguins numa fria
+
+//Atravessar 3 duplas de pinguins da direita para a esquerda sobre uma placa 
+de gelo, porém nenhum filhote pode ficar só acompanhado de outro adulto em
+nenhuma das margens, podem atravessar sobre a placa 1 ou 2 pinguins por vez
+
+Inicio
+	1 Subir filhotes azul e vermelho na placa
+	2 Atravessar para esquerda
+	3 Descer filhote azul
+	4 Retornar com filhote vermelho 
+	5 Descer filhote vermelho
+	6 Subir pai azul na placa
+	7 Atravessar para a esquerda
+	8 Descer o pai azul
+	9 Subir filhote azul na placa
+	10 Retornar com filhote azul para direita
+	11 Subir o filhote vermelho na placa
+	12 Atravessar para esquerda
+	13 Descer o filhote azul em companhia do pai
+	14 Retornar com filhote vermelho
+	15 Subir o pai vermelho na placa
+	16 Atravessar para esquerda
+	17 Descer o pai vermelho 
+	18 Retorno com filhote vermelho para direita
+	19 Subir filhote verde na placa
+	20 Atravessar para a esquerda
+	21 Descer o filhote vermelho em companhia do pai
+	22 Retornar com o filhote verde para direita
+	23 Subir pai verde na placa
+	24 Atravessar para esquerda
+	25 Descer o pai verde
+	26 Descer o filhote verde em companhia do pai
+Fim
+

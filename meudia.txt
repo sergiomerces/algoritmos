@@ -1,0 +1,57 @@
+//Algoritmo: Meu dia
+
+Inicio do dia
+	1. Acordar
+	2. Levantar da cama
+	3. Tomar banho
+	4. Escolher roupa
+	5. Vestir roupa
+	6. Entrar no carro
+	7. Levar esposa no trabalho
+	8. Ir até a padaria
+	9. Descer do carro
+	10. Comprar pão
+	11. Entrar no carro
+	12. Voltar para casa
+	13. Descer do carro
+	14. Preparar o café
+	15. Tomar café
+	16. Ler notícias do dia
+	17. Responder e-mails e mensagens
+	18. Entrar no carro
+	19. Ir para o trabalho
+	20. Desce do Carro
+	21. Registrar início da jornada
+	22. Ligar estação de trabalho
+	23. Trabalhar
+	24. Por estação de trabalho em standby
+	25. Registrar pausa na jornada
+	26. Almoçar
+	27. Ler e-mail e mensagens
+	28. Ligar para a esposa
+	29. Registrar retorno à jornada
+	30. Despertar estação de trabalho
+	31. Trabalhar
+	32. Desligar estação de trabalho
+	33. Registrar fim da jornada
+	34. Entrar no carro
+	35. Buscar esposa no trabalho
+	36. Ir à padaria
+	37. Descer do carro
+	38. Comprar pão
+	39. Entrar no carro
+	40. Ir para casa
+	41. Descer do carro
+	42. Tomar banho
+	43. Vestir roupa casual
+	44. Interagir com familiares
+	45. Ler Notícias
+	46. Responder e-mails e mensagens
+	47. Preparar jantar
+	48. jantar
+	49. Organizar casa
+	50. Planejar o próximo dia
+	51. Vestir pijama
+	52. Deitar na cama
+	53. Dormir
+Fim do dia
